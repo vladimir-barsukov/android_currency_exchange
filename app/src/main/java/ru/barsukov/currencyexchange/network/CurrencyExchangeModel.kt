@@ -1,4 +1,4 @@
-package ru.barsukov.currencyexchange
+package ru.barsukov.currencyexchange.network
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
